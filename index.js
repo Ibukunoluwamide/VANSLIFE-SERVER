@@ -13,7 +13,7 @@ app.use(cors());
 
 const port = process.env.PORT || 3000; 
 
-const User = require("./models/User");
+const User = require("./models/user");
 
 
 
